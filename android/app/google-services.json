@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852065121047",
+    "project_id": "wi-vitalink-app",
+    "storage_bucket": "wi-vitalink-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852065121047:android:4e89b6f773d2fa4a87fd52",
+        "android_client_info": {
+          "package_name": "com.example.vitalink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSQI1cU_kujhW9tYi2im1UNN7MCBLs4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
