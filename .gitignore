@@ -71,3 +71,4 @@ lib/generated_plugin_registrant.dart
 
 # Build artifacts
 build/
+releases/
