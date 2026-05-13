@@ -12,7 +12,7 @@ class MessagesScreen extends StatefulWidget {
 }
 
 class _MessagesScreenState extends State<MessagesScreen> {
-  int _selectedIndex = 3; // Chat Médico
+  final int _selectedIndex = 3; // Chat Médico
 
   @override
   Widget build(BuildContext context) {

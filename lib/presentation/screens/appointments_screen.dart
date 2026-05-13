@@ -12,7 +12,7 @@ class AppointmentsScreen extends StatefulWidget {
 }
 
 class _AppointmentsScreenState extends State<AppointmentsScreen> {
-  int _selectedIndex = 1; // Citas
+  final int _selectedIndex = 1; // Citas
   int _selectedDayIndex = 0; // Oct 14
 
   final List<Map<String, String>> _days = [

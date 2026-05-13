@@ -12,7 +12,7 @@ class RecordsScreen extends StatefulWidget {
 }
 
 class _RecordsScreenState extends State<RecordsScreen> {
-  int _selectedIndex = 2; // Historia Clínica
+  final int _selectedIndex = 2; // Historia Clínica
 
   @override
   Widget build(BuildContext context) {
