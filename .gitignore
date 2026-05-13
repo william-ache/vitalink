@@ -1,0 +1,9 @@
+# Ignorar todo
+/*
+
+# Excepto este archivo .gitignore
+!.gitignore
+
+# Y excepto la carpeta build/web
+!build/
+!build/web/
